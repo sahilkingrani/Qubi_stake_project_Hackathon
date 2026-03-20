@@ -1,4 +1,4 @@
-# 🏟️ QubiStake Arena
+# 🏟️ QubiStake
 
 A high-performance, dual-mode staking dApp built for the Qubic ecosystem. Featuring "Deep Atmospheric" UI and a custom reward engine with dynamic dilution and loyalty mechanics.
 
@@ -8,7 +8,7 @@ A high-performance, dual-mode staking dApp built for the Qubic ecosystem. Featur
 - **🧪 Mock Mode**: Local simulation for testing strategies without real assets.
 - **⛓ Real Mode**: Direct integration with Qubic Testnet RPC for authentic staking.
 
-### 2. The Arena Engine (Backend)
+### 2. The QubiStake Engine (Backend)
 - **Loyalty Multipliers**: Rewards scale based on duration ($1.0\times$ base, $1.5\times$ @ 2m, $2.0\times$ @ 5m).
 - **Whale Boss Goal**: Global stake goal (5000 units) triggers **Overdrive Mode** (2x rewards for all).
 - **Inverse Scaling**: Reward rates decrease by 0.1% for every 100 total units staked to simulate pool dilution.
