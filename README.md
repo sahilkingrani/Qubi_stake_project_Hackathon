@@ -6,7 +6,7 @@ A high-performance, dual-mode staking dApp built for the Qubic ecosystem. Featur
 
 ### 1. Dual-Mode Execution
 - **🧪 Mock Mode**: Local simulation for testing strategies without real assets.
-- **⛓ Real Mode**: Direct integration with Qubic Testnet RPC for authentic staking.
+- **⛓ Real Mode**: Direct integration with Qubic Testnet RPC for authentic staking
 
 ### 2. The QubiStake Engine (Backend)
 - **Loyalty Multipliers**: Rewards scale based on duration ($1.0\times$ base, $1.5\times$ @ 2m, $2.0\times$ @ 5m).
