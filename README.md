@@ -1,4 +1,4 @@
-#  QubiStake 
+#  QubiStake
 
 A high-performance, dual-mode staking dApp built for the Qubic ecosystem. Featuring "Deep Atmospheric" UI and a custom reward engine with dynamic dilution and loyalty mechanics.
 
